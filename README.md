@@ -2,18 +2,24 @@
 
 
 1. Crear un repositorio en vuestro GitHub llamado **masteruah**.
+Creamos un repositorio en nuestra cuenta de GitHub como se muestra a continuación:
 <img src="./1.png"/>
+
 2. Clonar vuestro repositio en local.
+Para clonar nuestro repositorio remoto en un repositorio local se inserta el comando "git clone".
 
-3. Crear (si no lo habéis creado ya) en vuestro repositorio local
-un documento **README.md**.
+3. Crear en vuestro repositorio local un documento **README.md**.
+Se crea un fichero llamado "README.md"al crear nuestro repositorio.
 
-4. Añadir al README.md los comanddos utilizados hasta ahora
-y hacer un coomit inicial con el mensaje **commit inicial**.
+4. Añadir al README.md los comanddos utilizados hasta ahora y hacer un commit inicial con el mensaje **commit inicial**.
+- Dentro de este fichero vamos escribiendo todos los comandos que se van insertando dentro del "git bash".
+- Para hacer un comentario dentro de este basta con hacer un commit, es decir, git commit -m "commit inicial".
 
 5. Subir los cambios al repositorio remoto.
+Para poder guardar los cambios hechos dentro del repositorio remoto hay que insertar el código "git push".
 
 6. Añadir fichero **1.txt** al repositorio local.
+Se añaden archivos con el comando "git add", en este caso queremos añadir el Fichero1.txt
 
 7. Crear un tag **v0.1**.
 
