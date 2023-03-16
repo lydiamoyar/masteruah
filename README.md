@@ -151,7 +151,8 @@ Lo siguiente que voy a hacer es poner como colaborador de mi repositorio a Alvar
 
 
 34. Crear un index.html que se pueda ver como página web en la organización:
-
+A continuación creamos un index de formato html para que aparezca como una página web dentro de la organización que hemos creado anteriormente.
+<img src="./11.png"/>
 
 
 
