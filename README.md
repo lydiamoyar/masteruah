@@ -112,9 +112,12 @@ Generamos una clave pública la cuál se hace insertando "cd ~/.ssh", "ssh-keyge
 
 
 26. Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles: 
+A continuación he buscado un compañero en GitHub y le he empezado a seguir dentro del programa
+<img src="./7.png"/>
 
 
 27. Añadir una estrella a los repositorios del resto de tus compañeros:
+<img src="./8.png"/>
 
 
 
@@ -125,13 +128,18 @@ de varios de tus compañeros de clase:
 |        NOMBRE          |                     GITHUB                        |
 |------------------------|---------------------------------------------------|
 | Rafael Virgilio García | [enlace a github 1](http://github.com/i12vecaj)   |
-| Pablo Gallego          | [enlace a github 1](http://github.com/i12vecaj)   |
+| Pablo Gallego          | [enlace a github 2](http://github.com/i12vecaj)   |
+| Alejandro Sánchez      | [enlace a github 3](http://github.com/i12vecaj)
 
 
 29. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador del repositorio **masteruah**:
+Lo siguiente que voy a hacer es poner como colaborador de mi repositorio a AlvaroLope28.
+<img src="./9.png"/>
 
 
 30. Crear una organización llamada **masteruah-tunombredeusuariodegithub**:
+
+<img src="./11.png"/>
 
 
 31. Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**, uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos:
@@ -144,6 +152,16 @@ de varios de tus compañeros de clase:
 
 
 34. Crear un index.html que se pueda ver como página web en la organización:
+
+
+
+
+
+
+
+
+
+
 
 
 35. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io** de 2 organizaciones de las que no seais ni administradiores ni colaboradores:
