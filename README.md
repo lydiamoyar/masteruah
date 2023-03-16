@@ -107,16 +107,15 @@ A continuación ponemos la doble autentificación.
 25. Añadir la clave pública que se corresponde a tu ordenador:
 Generamos una clave pública la cuál se hace insertando "cd ~/.ssh", "ssh-keygen" y nos imprimirá en pantalla un código.
 <img src="./4.png"/>
+<img src="./5.png"/>
+<img src="./6.png"/>
 
 
-
-
-
-26. Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles:
+26. Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles: 
 
 
 27. Añadir una estrella a los repositorios del resto de tus compañeros:
-<img src="./1.png"/>
+
 
 
 
