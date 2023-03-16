@@ -138,10 +138,13 @@ Lo siguiente que voy a hacer es poner como colaborador de mi repositorio a Alvar
 
 
 30. Crear una organización llamada **masteruah-tunombredeusuariodegithub**:
+<img src="./15.png"/>
 
 
 
 31. Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**, uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos:
+Dentro de la organización creamos dos teams para diferenciar a los colaboradores de los administradores los cuales unos tendrán las permisos que otros dentro de los archivos.
+<img src="./10.png"/>
 
 
 32. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a 2 de vuestros compañeros de clase en el equipo **administradores**:
