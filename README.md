@@ -1,3 +1,6 @@
+**masteruah
+
+
 1. Crear un repositorio en vuestro GitHub llamado **masteruah**.
 
 2. Clonar vuestro repositio en local.
@@ -59,33 +62,32 @@ de varios de tus compañeros de clase:
 
 |        NOMBRE          |                     GITHUB                        |
 |------------------------|---------------------------------------------------|
-| Nombre del compañero 1 | [enlace a github 1](http://github.com/i12vecaj) |
-| Nombre del compañero 2 | [enlace a github 1](http://github.com/i12vecaj) |
-| Nombre del compañero 3 | [enlace a github 3](http://github.com/i12vecaj) |
+| Rafael Virgilio García | [enlace a github 1](http://github.com/i12vecaj) |
+| Pablo Gallego          | [enlace a github 1](http://github.com/i12vecaj) |
 
-1. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
+29. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
 del repositorio **masteruah**
 
-29. Crear una organización llamada **masteruah-tunombredeusuariodegithub**
+30. Crear una organización llamada **masteruah-tunombredeusuariodegithub**
 
-30. Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**,
+31. Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**,
 uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos.
 
-31. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a 2 de vuestros
+32. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a 2 de vuestros
 compañeros de clase en el equipo **administradores**.
 
-32. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a otros 2 de vuestros
+33. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a otros 2 de vuestros
 compañeros de clase en el equipo **colaboradores**.
 
-33. Crear un index.html que se pueda ver como página web en la organización.
+34. Crear un index.html que se pueda ver como página web en la organización.
 
-34. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io**
+35. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io**
 de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
 
-35. Crearos una rama en cada fork.
+36. Crearos una rama en cada fork.
 
-36. En cada rama modificar el fichero **index.html** añadiendo vuestro nombre.
+37. En cada rama modificar el fichero **index.html** añadiendo vuestro nombre.
 
-37. Con cada rama hacer un pull-request.
+38. Con cada rama hacer un pull-request.
 
-38. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+39. Aceptar los pull-request que lleguen a los repositorios de tu organización.
