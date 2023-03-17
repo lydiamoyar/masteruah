@@ -160,16 +160,30 @@ A continuación creamos un index de formato html para que aparezca como una pág
 
 
 35. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io** de 2 organizaciones de las que no seais ni administradiores ni colaboradores:
+Nos vamos al repositorio que hemos creado:
+<img src="./12.png"/>
+<img src="./13.png"/>
+<img src="./14.png"/>
 
 
 36. Crearemos una rama en cada fork:
-
+Tenemos que crear una rama por lo que nos vamos a cada uno de los forks creados y creamos la rama.
+<img src="./15.png"/>
+<img src="./16.png"/>
+<img src="./17.png"/>
+<img src="./18.png"/>
 
 37. En cada rama modificar el fichero **index.html** añadiendo vuestro nombre:
-
+Vamos a modificar el dichero "index.html" de cara rama
+<img src="./19.png"/>
+<img src="./20.png"/>
 
 38. Con cada rama hacer un pull-request:
-
+Aquí tenemos un ejemplo de como hacer un pull-request.
+<img src="./21.png"/>
+<img src="./22.png"/>
+<img src="./23.png"/>
 
 39. Aceptar los pull-request que lleguen a los repositorios de tu organización:
-
+Por último aceptamos todos los pull-request.
+<img src="./24.png"/>
