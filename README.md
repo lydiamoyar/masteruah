@@ -127,9 +127,9 @@ de varios de tus compañeros de clase:
 
 |        NOMBRE          |                     GITHUB                        |
 |------------------------|---------------------------------------------------|
-| Rafael Virgilio García | [enlace a github 1](http://github.com/i12vecaj)   |
-| Pablo Gallego          | [enlace a github 2](http://github.com/i12vecaj)   |
-| Alejandro Sánchez      | [enlace a github 3](http://github.com/i12vecaj)
+| Rafael Virgilio García | [enlace a github 1]()   |
+| Pablo Gallego          | [enlace a github 2]()   |
+| Alejandro Sánchez      | [enlace a github 3]()   |
 
 
 29. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador del repositorio **masteruah**:
