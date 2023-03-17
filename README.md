@@ -129,10 +129,10 @@ de varios de tus compañeros de clase:
 |------------------------|----------------------------------------------------------------------|
 | Rafael Virgilio García | [enlace a github 1](https://github.com/RafaGarcia24/masteruah.git)   |
 | Pablo Gallego          | [enlace a github 2](https://github.com/PabloTorr03/masteruah.git)    |
-| Alejandro Sánchez      | [enlace a github 3]()             |
+| Alejandro Sánchez      | [enlace a github 3](https://github.com/AlexSancheez02/Masteruah.git) |
 
 
-29. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador del repositorio **masteruah**:
+29. Poner a [github.com/AlvaroLope28](http://github.com/i12vecaj) como colaborador del repositorio **masteruah**:
 Lo siguiente que voy a hacer es poner como colaborador de mi repositorio a AlvaroLope28.
 <img src="./9.png"/>
 
