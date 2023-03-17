@@ -132,7 +132,7 @@ de varios de tus compañeros de clase:
 | Alejandro Sánchez      | [enlace a github 3](https://github.com/AlexSancheez02/Masteruah.git) |
 
 
-29. Poner a [github.com/AlvaroLope28](http://github.com/i12vecaj) como colaborador del repositorio **masteruah**:
+29. Poner a [github.com/AlvaroLope28]([http://github.com/i12vecaj](https://github.com/AlvaroLope28/masteruah.git)) como colaborador del repositorio **masteruah**:
 Lo siguiente que voy a hacer es poner como colaborador de mi repositorio a AlvaroLope28.
 <img src="./9.png"/>
 
@@ -159,18 +159,10 @@ A continuación creamos un index de formato html para que aparezca como una pág
 
 
 
-
-
-
-
-
-
-
-
 35. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io** de 2 organizaciones de las que no seais ni administradiores ni colaboradores:
 
 
-36. Crearos una rama en cada fork:
+36. Crearemos una rama en cada fork:
 
 
 37. En cada rama modificar el fichero **index.html** añadiendo vuestro nombre:
