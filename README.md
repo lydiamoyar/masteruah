@@ -125,11 +125,11 @@ A continuación he buscado un compañero en GitHub y le he empezado a seguir den
 28. Crear una tabla de este estilo en el fichero **README.md** con la información
 de varios de tus compañeros de clase:
 
-|        NOMBRE          |                     GITHUB                        |
-|------------------------|---------------------------------------------------|
+|        NOMBRE          |                     GITHUB                                           |
+|------------------------|----------------------------------------------------------------------|
 | Rafael Virgilio García | [enlace a github 1](https://github.com/RafaGarcia24/masteruah.git)   |
-| Pablo Gallego          | [enlace a github 2]()   |
-| Alejandro Sánchez      | [enlace a github 3]()   |
+| Pablo Gallego          | [enlace a github 2](https://github.com/PabloTorr03/masteruah.git)    |
+| Alejandro Sánchez      | [enlace a github 3]()             |
 
 
 29. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador del repositorio **masteruah**:
